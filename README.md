@@ -3,10 +3,10 @@
 - 💡 I’m a sophomore at Denison
 - 💻 I'm a Computer Science and Data Analytics double major with a minor in Maths
 - 🌱 I’m currently learning Data Structures and Algorithms
-- 📫 How to reach me: haiyennguyen1345@gmail.com
+- 📫 How to reach me: nguyen_y6@denison.edu
 - 😄 Pronouns: she/her/hers
 - 💡 Fun fact: I can sleep up to 12 hours a day
-- 💼 Job interests: Software Developer, Data Analyst
+- 💼 Job interests: Software Developer, Data Analyst, Business Analyst
 <!--
 **yenne1345/yenne1345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
