@@ -1,6 +1,6 @@
 ### Hi there, I'm Yen 👋
 
-- 💡 I’m a junior at Denison
+- 💡 I’m a senior at Denison
 - 💻 I'm a Computer Science and Data Analytics (Economics concentration) double major with a minor in Mathematics
 - 🔭 I’m particularly interested in AI/ML field
 - 📫 How to reach me: nguyen_y6@denison.edu
